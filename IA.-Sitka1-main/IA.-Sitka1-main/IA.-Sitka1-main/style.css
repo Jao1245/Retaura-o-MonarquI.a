@@ -18,8 +18,9 @@ body{
 }
 
 .imagem-principal{
-
-
+  witdh: 100%;
+  border-radius: 15xp;
+  margin-top:  20px;
 }
 
 .caixa-principal{
@@ -51,3 +52,10 @@ button:hover{
     color: var(--cor-principal);
 }
 
+input{
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+  text-align: center ;
+  margin: 10px;
+}
